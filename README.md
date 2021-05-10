@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    A dummy web movie list app which stores data on Google Firebase
+    A dummy movie list app which stores data on Google Firebase
   </h1>
 </div>
 
